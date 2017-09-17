@@ -1,0 +1,33 @@
+body {
+	background-color: #152B28;
+	/*background-color: #b7d1c4;*/
+
+}
+
+h1 {
+	color: blue;
+	font-family: Verdana;
+	background-image: url("doug.JPG");
+	background-position: 25% 60%;
+	margin: 2%;
+	padding: 8%;
+}
+
+h2 {
+}
+
+p {
+	color: black;
+	font-family: Helvetica;
+	font-size: 12px;
+}
+
+.ptype {
+	font-size: 16px;
+	font-family: serif;
+	margin-left: 200px;
+}
+
+#different {
+	color: lightblue;
+}
